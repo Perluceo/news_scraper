@@ -11,5 +11,5 @@
 <li>Cheerio</li>
 <li>Axios</li>
 <li>Heroku</li>
-<li>mLab for remote MongoDB<li>
+<li>mLab for remote MongoDB</li>
 </ul>
